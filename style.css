@@ -184,7 +184,7 @@ h1 {
 }
 
 .ca-text {
-    font-size: 20px;
+    font-size: 28px;
     margin: 30px 0;
     background: linear-gradient(45deg, #ccff00, #b3ff00);
     -webkit-background-clip: text;
@@ -210,13 +210,6 @@ h1 {
     background-color: #b3ff00;
     transform: scale(1.05);
     transition: all 0.3s ease;
-}
-
-.copy-button {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin: 0 auto;
 }
 
 .copy-notification {
